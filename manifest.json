@@ -1,0 +1,12 @@
+{
+    "name": "LunaPlugin",
+    "description": "تجربة لونا الأولى",
+    "authors": [
+        {
+            "name": "Luna",
+            "id": "12345"
+        }
+    ],
+    "main": "index.js",
+    "hash": "avcdef"
+}
