@@ -1,12 +1,11 @@
 {
     "name": "LunaPlugin",
-    "description": "كلاوات",
+    "description": "المحاولة الاخيرة",
     "authors": [
         {
             "name": "Luna",
             "id": "12345"
         }
     ],
-    "main": "index.js",
-    "hash": "avcdef"
+    "main": "plugin.js"
 }
